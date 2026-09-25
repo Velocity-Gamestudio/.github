@@ -30,8 +30,8 @@ We welcome players, developers, testers, and contributors who are interested in 
 
 ## 🔗 Links
 
-- [View our repositories](https://github.com/YOUR-ORGANIZATION-NAME?tab=repositories)
-- [Open discussions](https://github.com/YOUR-ORGANIZATION-NAME/discussions)
+- [View our repositories](https://github.com/velocity-gamestudio?tab=repositories)
+- [Open discussions](https://github.com/velocity-gamestudio/discussions)
 
 ---
 
